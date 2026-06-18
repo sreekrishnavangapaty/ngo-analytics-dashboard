@@ -1,0 +1,11 @@
+Activity_Type,Region,Budget,Team_Size,Resources_Allocated,Priority_Level,Expected_Reach,Success_Rate
+Workshop,Hyderabad,25000,30,55,High,200,85
+Campaign,Warangal,18000,20,40,Medium,350,70
+Seminar,Nizamabad,20000,25,45,High,220,75
+Workshop,Karimnagar,27000,35,60,High,180,90
+Campaign,Hyderabad,16000,18,38,Low,400,65
+Seminar,Warangal,21000,28,50,Medium,230,78
+Workshop,Nizamabad,30000,40,65,High,210,92
+Campaign,Karimnagar,15000,15,35,Low,420,60
+Seminar,Hyderabad,22000,26,48,Medium,240,80
+Workshop,Warangal,28000,38,62,High,190,88
